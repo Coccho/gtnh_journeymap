@@ -1,0 +1,17 @@
+{
+  "id": "Eldritch Obelisk_-20,69,-22",
+  "name": "Eldritch Obelisk",
+  "icon": "waypoint-normal.png",
+  "x": -20,
+  "y": 69,
+  "z": -22,
+  "r": 194,
+  "g": 191,
+  "b": 193,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

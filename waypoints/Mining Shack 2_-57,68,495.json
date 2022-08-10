@@ -1,0 +1,17 @@
+{
+  "id": "Mining Shack 2_-57,68,495",
+  "name": "Mining Shack 2",
+  "icon": "waypoint-normal.png",
+  "x": -57,
+  "y": 68,
+  "z": 495,
+  "r": 144,
+  "g": 82,
+  "b": 60,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

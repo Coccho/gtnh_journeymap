@@ -1,0 +1,17 @@
+{
+  "id": "Flesh_-776,54,3080",
+  "name": "Flesh",
+  "icon": "waypoint-normal.png",
+  "x": -776,
+  "y": 54,
+  "z": 3080,
+  "r": 167,
+  "g": 211,
+  "b": 120,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

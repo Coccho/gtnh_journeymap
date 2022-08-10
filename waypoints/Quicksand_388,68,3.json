@@ -1,0 +1,17 @@
+{
+  "id": "Quicksand_388,68,3",
+  "name": "Quicksand",
+  "icon": "waypoint-normal.png",
+  "x": 388,
+  "y": 68,
+  "z": 3,
+  "r": 19,
+  "g": 29,
+  "b": 164,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

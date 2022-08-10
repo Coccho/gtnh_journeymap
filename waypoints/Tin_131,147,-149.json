@@ -1,0 +1,17 @@
+{
+  "id": "Tin_131,147,-149",
+  "name": "Tin",
+  "icon": "waypoint-normal.png",
+  "x": 131,
+  "y": 147,
+  "z": -149,
+  "r": 101,
+  "g": 251,
+  "b": 53,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
