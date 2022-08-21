@@ -1,0 +1,17 @@
+{
+  "id": "Cryolite Vein_-13,22,-229",
+  "name": "Cryolite Vein",
+  "icon": "waypoint-normal.png",
+  "x": -13,
+  "y": 22,
+  "z": -229,
+  "r": 126,
+  "g": 181,
+  "b": 7,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

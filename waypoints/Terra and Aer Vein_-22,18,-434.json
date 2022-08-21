@@ -1,0 +1,17 @@
+{
+  "id": "Terra and Aer Vein_-22,18,-434",
+  "name": "Terra and Aer Vein",
+  "icon": "waypoint-normal.png",
+  "x": -22,
+  "y": 18,
+  "z": -434,
+  "r": 205,
+  "g": 6,
+  "b": 151,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}
