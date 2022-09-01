@@ -1,0 +1,17 @@
+{
+  "id": "NA TEDO PALATA_453,148,95",
+  "name": "NA TEDO PALATA",
+  "icon": "waypoint-normal.png",
+  "x": 453,
+  "y": 148,
+  "z": 95,
+  "r": 14,
+  "g": 88,
+  "b": 209,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
